@@ -75,7 +75,7 @@ python -m unittest
 ## 🚀 Extensões sugeridas
 - Permitir **n** notas (não só 4).
 - Salvar histórico de médias em um arquivo `.csv`.
-- Criar uma GUI simples com **Tkinter**.
+- Criar uma GUI simples com **Streamlit**.
 - Internacionalização (exibir mensagens em **pt**/**en**).
 
 ---
