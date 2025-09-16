@@ -4,9 +4,9 @@ st.subheader ("Bem vindo a calculadora de media escolar 😁")
 st.title ("calculadora de média escolar🎒📱")
 
 nota1=st.number_input("digite a nota do 1ª Bimestre",min_value=0.0)
-nota2=st.number_input("digite a nota do 1ª Bimestre",min_value=0.0)
-nota3=st.number_input("digite a nota do 1ª Bimestre",min_value=0.0)
-nota4=st.number_input("digite a nota do 1ª Bimestre",min_value=0.0)
+nota2=st.number_input("digite a nota do 2ª Bimestre",min_value=0.0)
+nota3=st.number_input("digite a nota do 3ª Bimestre",min_value=0.0)
+nota4=st.number_input("digite a nota do 4ª Bimestre",min_value=0.0)
 
 btn_calcular = st.button ("Calcular")
 
