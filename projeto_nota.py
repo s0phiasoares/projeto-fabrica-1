@@ -12,6 +12,7 @@ btn_calcular = st.button ("Calcular")
 
 if btn_calcular:
     media = (nota1 + nota2 + nota3 + nota4 ) / 4
+    st.write (f"Sua media foi: {media}")
     if media>= 7:
         st.success("Parabens! você foi aprovado 😁✅")
 
